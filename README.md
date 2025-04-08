@@ -86,8 +86,8 @@ export const needNewWallets = true
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/PioSol7/Solana_Bundler_Bot.git
-cd Solana_Bundler_Bot
+git clone https://github.com/kindsecret/pumpfun_ray_bundler.git
+cd pumpfun_ray_bundler
 ```
 2. Install dependencies
 ```
@@ -174,11 +174,3 @@ I will check and find the reason of it.
 Ofc, many clients are using this and have some difficulties to get familiar with this.
 But after 2 or 3 times of successful running, then you will get used to it and will be happy.
 If you have some inconvenience, then let me know, I will update it like what you want.
-
-## Author
-
-Discord: takhi_77 in discord
-
-Telegram: [@SolSon](https://t.me/@pio_sol)
-
-You can always feel free to find me here for my help on other projects.
